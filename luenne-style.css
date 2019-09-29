@@ -1,0 +1,124 @@
+/* FIRST ITERATION */
+
+body.luenne-1 {
+  background: black;
+  font-family: 'muli', sans-serif;
+  font-size:64px;
+  margin-top:10%;
+  margin-left:20%;
+  margin-right:20%;
+}
+body.luenne-1 .one {
+  margin-top:-20px;
+  font-size:140px;
+  line-height:0.9;
+  font-weight:900;
+  text-decoration:;
+  text-align:center;
+  padding-right:30px;
+  color:LightGoldenRodYellow ;
+  text-shadow: 5px 5px 3px #FF0000, -5px -5px 5px #0000FF;
+}
+
+body.luenne-1 .two {
+  margin-top:-50px;
+  font-size:40px;
+  letter-spacing:20px;
+  font-weight: 900;
+  text-decoration:none;
+  text-align:left;
+  color:#444;
+  
+}
+body.luenne-1 .three{
+  font-size:32px;
+  font-weight:100;
+  text-transform:;
+  margin-top:-100px;
+  text-decoration: underline;
+  text-align:right;
+  color:white;
+  float:right;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.luenne-2 {
+  background-color: #2A324B;
+  font-family: 'muli', sans-serif;
+  font-size:64px;
+  margin-top:10%;
+  margin-left:20%;
+  margin-right:20%;
+}
+body.luenne-2 .one {
+  margin-top:-50px;
+  font-size:72px;
+  line-height:56px;
+  font-weight:900;
+  text-decoration:underline;
+  text-align:right;
+  padding-left:500px;
+  color:#F7C59F;
+}
+body.luenne-2 .two {
+  margin-top:-50px;
+  font-size:120px;
+  font-weight: 200;
+  text-decoration:none;
+  text-align:left;
+  color:#BA8F95;
+}
+body.luenne-2 .three{
+  font-size:32px;
+  font-weight:bold;
+  text-transform:uppercase;
+  text-decoration: line-through;
+  text-align:center;
+  color:#B1C1C0;
+}
+
+
+/* THIRD ITERATION */
+
+
+body.luenne-3 {
+  background-color: yellow;
+  font-family: 'muli', sans-serif;
+  font-size:64px;
+  margin-top:10%;
+  margin-left:20%;
+  margin-right:20%;
+}
+
+body.luenne-3 .one {
+  margin-top:-50px;
+  font-size:140px;
+  line-height:130px;
+  font-weight:100;
+  text-decoration:underline;
+  text-align:center;
+  padding-right:30px;
+  color:#008295;
+}
+
+body.luenne-3 .two {
+  margin-top:-50px;
+  font-size:90px;
+  font-weight: 600;
+  text-decoration:none;
+  text-align:left;
+  color:#444;
+}
+
+body.luenne-3 .three{
+  font-size:32px;
+  font-weight:bold;
+  text-transform:;
+  margin-top:-140px;
+  text-decoration: line-through;
+  text-align:right;
+  color:orange;
+}
